@@ -2,5 +2,5 @@
 
 /* 第一個 C 程式  (hello.c) */
 main() {
-   printf("hello, world\n");
+   printf("hello, world!\n");
 }
