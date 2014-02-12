@@ -1,0 +1,26 @@
+From 729587850958507270d6a9eaba69218b23991387 Mon Sep 17 00:00:00 2001
+From: ncuaddison <ncuaddison@gmail.com>
+Date: Wed, 12 Feb 2014 16:58:32 +0800
+Subject: [PATCH] Create helloworld.c
+
+helloworld
+---
+ helloworld.c | 6 ++++++
+ 1 file changed, 6 insertions(+)
+ create mode 100644 helloworld.c
+
+diff --git a/helloworld.c b/helloworld.c
+new file mode 100644
+index 0000000..da7a537
+--- /dev/null
++++ b/helloworld.c
+@@ -0,0 +1,6 @@
++#include <stdio.h>
++
++/* 第一個 C 程式  (hello.c) */
++main() {
++   printf("hello, world\n");
++}
+-- 
+1.8.3.msysgit.0
+
